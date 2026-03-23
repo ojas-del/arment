@@ -1,6 +1,7 @@
 [build]
+base = "pure-pet-clone"
 command = "npm run build"
-publish = ".next"
+publish = "pure-pet-clone/.next"
 
 [[plugins]]
 package = "@netlify/plugin-nextjs"
