@@ -1,0 +1,12 @@
+[    3308ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/css/app/layout.css?v=1774091402751:0
+[    3343ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/chunks/main-app.js?v=1774091402751:0
+[    3343ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/chunks/app-pages-internals.js:0
+[    3344ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/chunks/app/layout.js:0
+[    9028ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/css/app/layout.css?v=1774091408882:0
+[    9055ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/chunks/main-app.js?v=1774091408882:0
+[    9057ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/chunks/app/layout.js:0
+[    9058ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/chunks/app-pages-internals.js:0
+[   11709ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/css/app/layout.css?v=1774091411573:0
+[   11738ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/chunks/main-app.js?v=1774091411573:0
+[   11739ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/chunks/app-pages-internals.js:0
+[   11740ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/chunks/app/layout.js:0

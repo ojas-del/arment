@@ -1,0 +1,19 @@
+[    2021ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rO (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:35397)
+    at oG (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:85443)
+    at sw (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116530)
+    at https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116375
+    at sS (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116383)
+    at sc (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:111758)
+    at sJ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:134896)
+    at MessagePort._ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:371091)
+[    2190ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 13d87889-4551-487c-8129-01d95472a1c1. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-b69061ea9952a858.js:5
+[    2190ms] [WARNING] Amplitude Logger [Warn]: Plugin with name google-tag-manager already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-b69061ea9952a858.js:5
+[    2190ms] [WARNING] Amplitude Logger [Warn]: Plugin with name @amplitude/plugin-session-replay-browser already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-b69061ea9952a858.js:5
+[    2190ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 1a27ab3b-5cf0-4d86-b216-87267f3d95ed. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-b69061ea9952a858.js:5
+[   77608ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C5ONCI5ODNNK397VL59G&lib=ttq:0
+[  108228ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://www.datocms-assets.com/55536/1771515270-eco-sensitive-game_small.jpg?auto=format&crop=focalpoint&dpr=2&fit=crop&h=600&w=1000:0

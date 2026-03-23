@@ -1,0 +1,4 @@
+[      83ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8899/images/bowl-food.png:0
+[      99ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8899/images/press-dog.png:0
+[     102ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8899/images/faq-dog.png:0
+[     396ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8899/favicon.ico:0

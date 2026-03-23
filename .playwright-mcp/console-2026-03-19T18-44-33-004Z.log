@@ -1,0 +1,8 @@
+[     366ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 2d988c7e-6bd9-4513-8fa2-a8bf340b7e16. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     366ms] [WARNING] Amplitude Logger [Warn]: Plugin with name google-tag-manager already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     366ms] [WARNING] Amplitude Logger [Warn]: Plugin with name @amplitude/plugin-session-replay-browser already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     366ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 13514dde-ee5d-496b-8886-b197a991c843. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5

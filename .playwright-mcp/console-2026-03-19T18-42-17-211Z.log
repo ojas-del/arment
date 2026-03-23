@@ -1,0 +1,27 @@
+[     119ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rO (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:35397)
+    at oG (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:85443)
+    at sw (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116530)
+    at https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116375
+    at sS (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116383)
+    at sc (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:111758)
+    at sJ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:134896)
+    at MessagePort._ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:371091)
+[     268ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: d04101ab-c19a-49ce-a0f9-179348c2cff6. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     268ms] [WARNING] Amplitude Logger [Warn]: Plugin with name google-tag-manager already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     268ms] [WARNING] Amplitude Logger [Warn]: Plugin with name @amplitude/plugin-session-replay-browser already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     269ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: d75726d0-a1ef-4095-8a7b-d1dd82b14322. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     787ms] [ERROR] [next-auth][error][CLIENT_FETCH_ERROR] 
+https://next-auth.js.org/errors#client_fetch_error Failed to fetch {error: Object, url: /api/auth/session, message: Failed to fetch} @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    1133ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: dab1c630-8973-4c21-a884-d38442bdc873. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    1133ms] [WARNING] Amplitude Logger [Warn]: Plugin with name google-tag-manager already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    1133ms] [WARNING] Amplitude Logger [Warn]: Plugin with name @amplitude/plugin-session-replay-browser already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    1133ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 57ff2bb0-6495-4981-a582-d0a86e79c272. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5

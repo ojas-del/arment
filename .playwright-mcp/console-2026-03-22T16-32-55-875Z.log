@@ -1,0 +1,3 @@
+[   12810ms] [WARNING] Skipping auto-scroll behavior due to `position: sticky` or `position: fixed` on element: JSHandle@node @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/layout-router.js:109
+[   23345ms] [WARNING] Skipping auto-scroll behavior due to `position: sticky` or `position: fixed` on element: JSHandle@node @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/layout-router.js:109
+[   26350ms] [WARNING] Skipping auto-scroll behavior due to `position: sticky` or `position: fixed` on element: JSHandle@node @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/layout-router.js:109

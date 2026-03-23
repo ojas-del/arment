@@ -1,0 +1,19 @@
+[     792ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rO (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:35397)
+    at rM (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:36430)
+    at https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:119931
+    at sC (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:124803)
+    at sw (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116591)
+    at https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116375
+    at sS (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116383)
+    at sc (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:111758)
+    at sJ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:134896)
+    at MessagePort._ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:371091)
+[     907ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 990c2439-537d-4a06-b6a4-f7ee8334a1f5. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     907ms] [WARNING] Amplitude Logger [Warn]: Plugin with name google-tag-manager already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     907ms] [WARNING] Amplitude Logger [Warn]: Plugin with name @amplitude/plugin-session-replay-browser already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     907ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: a277781d-49ce-40d8-8831-343552091588. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5

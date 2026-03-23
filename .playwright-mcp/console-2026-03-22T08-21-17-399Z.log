@@ -1,0 +1,5 @@
+[  307578ms] [ERROR] WebSocket connection to 'ws://localhost:3099/_next/webpack-hmr' failed:  @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js:41
+[  307578ms] [ERROR] WebSocket connection to 'ws://localhost:3099/_next/webpack-hmr' failed:  @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js:41
+[  726433ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dzhtpnskezkrtfinntbi.supabase.co/auth/v1/token?grant_type=password:0
+[  890047ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dzhtpnskezkrtfinntbi.supabase.co/auth/v1/token?grant_type=password:0
+[  900819ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dzhtpnskezkrtfinntbi.supabase.co/auth/v1/token?grant_type=password:0

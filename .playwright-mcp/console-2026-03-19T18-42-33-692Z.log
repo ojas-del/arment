@@ -1,0 +1,36 @@
+[     580ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rO (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:35397)
+    at rM (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:36430)
+    at https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:119931
+    at sC (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:124803)
+    at sw (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116591)
+    at https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116375
+    at sS (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116383)
+    at sc (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:111758)
+    at sJ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:134896)
+    at MessagePort._ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:371091)
+[     744ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: e4596bc7-1c27-469c-973d-7d025e7be0e2. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     744ms] [WARNING] Amplitude Logger [Warn]: Plugin with name google-tag-manager already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     744ms] [WARNING] Amplitude Logger [Warn]: Plugin with name @amplitude/plugin-session-replay-browser already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[     744ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 5db68281-be1b-4c20-92f4-b2b91b1c6c5c. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    5544ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rO (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:35397)
+    at oG (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:85443)
+    at sw (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116530)
+    at https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116375
+    at sS (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:116383)
+    at sc (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:111758)
+    at sJ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:134896)
+    at MessagePort._ (https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:1:371091)
+[    5763ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 2bcd3201-52c7-4b73-b2cc-6794de928156. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    5763ms] [WARNING] Amplitude Logger [Warn]: Plugin with name google-tag-manager already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    5763ms] [WARNING] Amplitude Logger [Warn]: Plugin with name @amplitude/plugin-session-replay-browser already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    5763ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: f88a4b9e-8dc4-4a21-a4b4-be1a49a6f0c4. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5

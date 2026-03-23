@@ -1,0 +1,26 @@
+[    1618ms] [WARNING] Route Widget: No elements found matching selector "button[name=checkout], .rounded-storefront-drawer-button" @ https://static.rechargecdn.com/assets/storefront-experiences/storefront-experiences.js:77
+[    1969ms] [WARNING] [Recharge Warning] Found multiple product forms for the same variant id 43492710285481 [form#product-form-template--19030690889897__main.main-product-form.grid.gap-4, form#product-form-sticky-atc-bar.sticky-atc-bar__form.flex.items-center.justify-center.md:justify-s…] @ https://static.rechargecdn.com/assets/storefront-experiences/storefront-experiences.js:77
+[    3298ms] [ERROR] Access to fetch at 'https://api.skio.com/storefront-http/get-skio-info' from origin 'https://seektolive.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://seektolive.com/products/mold-free-coffee:0
+[    3299ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api.skio.com/storefront-http/get-skio-info:0
+[    3856ms] TypeError: Failed to fetch
+    at https://seektolive.com/cdn/wpm/b2f2288a8w2fafd01bp23157a73mcb0adebfm.js:1:72564
+    at window2.fetch (https://seektolive.com/cdn/shopifycloud/storefront/assets/shop_events_listener-3da45d37.js:1:7564)
+    at window.<computed> (https://cdn.skio.com/scripts/shopify/head/shopify.ba9807f79b5cdb6483d5.js:1:124727)
+    at https://cdn.skio.com/scripts/shopify/head/shopify.ba9807f79b5cdb6483d5.js:1:144052
+    at _0x30a5d3 (https://cdn.skio.com/scripts/shopify/head/shopify.ba9807f79b5cdb6483d5.js:1:104021)
+    at Generator._invoke (https://cdn.skio.com/scripts/shopify/head/shopify.ba9807f79b5cdb6483d5.js:1:103412)
+    at Generator.next (https://cdn.skio.com/scripts/shopify/head/shopify.ba9807f79b5cdb6483d5.js:1:104952)
+    at _0x53a960 (https://cdn.skio.com/scripts/shopify/head/shopify.ba9807f79b5cdb6483d5.js:1:142516)
+    at _0x7de502 (https://cdn.skio.com/scripts/shopify/head/shopify.ba9807f79b5cdb6483d5.js:1:142991)
+    at https://cdn.skio.com/scripts/shopify/head/shopify.ba9807f79b5cdb6483d5.js:1:143222
+[    3571ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://seektolive.com/cdn/wpm/s2f2288a8w2fafd01bp23157a73mcb0adebfm.js:0
+[    3714ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://seektolive.com/cdn/wpm/s2f2288a8w2fafd01bp23157a73mcb0adebfm.js:0
+[    4525ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://seektolive.com/products/mold-free-coffee:0
+[   75685ms] NetworkError: Failed to execute 'importScripts' on 'WorkerGlobalScope': The script at 'https://analytics.tiktok.com/i18n/pixel/shopify.js?sdkid=CMBJ5TBC77UCRGJEHN1G&lib=ttq' failed to load.
+    at t.load (https://seektolive.com/web-pixels/strict/app/web-pixel-482017449@22e92c2ad45662f435e4801458fb78cc.js:1:908)
+    at Object.<anonymous> (https://seektolive.com/web-pixels/strict/app/web-pixel-482017449@22e92c2ad45662f435e4801458fb78cc.js:1:950)
+    at se (https://seektolive.com/cdn/wpm/s2f2288a8w2fafd01bp23157a73mcb0adebfm.js:1:70331)
+    at h (https://seektolive.com/cdn/wpm/s2f2288a8w2fafd01bp23157a73mcb0adebfm.js:1:71797)
+[   76011ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://shop.app/pay/session?v=1&token=c79ea808-078a-4eda-865f-6281ec911972&shop_id=61341237417:0
+[   76012ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=61341237417:0
+[   79539ms] [WARNING] [RouteWidget] Widget already initialized, skipping render. @ https://static.rechargecdn.com/assets/storefront-experiences/storefront-experiences.js:77

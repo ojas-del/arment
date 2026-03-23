@@ -1,0 +1,1 @@
+[  123114ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dzhtpnskezkrtfinntbi.supabase.co/rest/v1/page_sections?columns=%22page_id%22%2C%22type%22%2C%22content%22%2C%22sort_order%22%2C%22is_visible%22:0

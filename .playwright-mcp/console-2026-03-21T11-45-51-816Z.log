@@ -1,0 +1,12 @@
+[    2524ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.purepetfood.com/cdn/images/products/duck.webp:0
+[    2978ms] [ERROR] 404 - Page Not Found /cdn/images/products/duck.webp @ https://www.purepetfood.com/_next/static/chunks/pages/_app-b69061ea9952a858.js:5
+[    3121ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 9c2c9e5b-eaf3-4e06-a87c-10ccbb8efbc5. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-b69061ea9952a858.js:5
+[    3400ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.purepetfood.com/_next/data/mF7u2Oq-o0oC0ip-2-yE8/en/cdn/images/products/duck.webp.json:0
+[    3413ms] [WARNING] Amplitude Logger [Warn]: Plugin with name google-tag-manager already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-b69061ea9952a858.js:5
+[    3413ms] [WARNING] Amplitude Logger [Warn]: Plugin with name @amplitude/plugin-session-replay-browser already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-b69061ea9952a858.js:5
+[    3413ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: fff427fa-4804-43f1-9f07-51d4507eab94. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-b69061ea9952a858.js:5
+[   78513ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C5ONCI5ODNNK397VL59G&lib=ttq:0

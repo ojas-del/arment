@@ -1,0 +1,103 @@
+[ 3126220ms] [ERROR] ./src/components/HeroSection.tsx
+Error: 
+  x Expected ',', got '{'
+     ,-[/Users/admin/Desktop/claude code armen/pure-pet-clone/src/components/HeroSection.tsx:138:1]
+ 138 |       </div>
+ 139 | 
+ 140 |     </section>
+ 141 |     {/* Zigzag divider below hero - sits outside section */}
+     :     ^
+ 142 |     <div
+ 143 |       className="w-full relative z-20"
+ 144 |       style={{
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/HeroSection.tsx @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[ 3126598ms] [ERROR] ./src/components/HeroSection.tsx
+Error: 
+  x Expected ',', got '{'
+     ,-[/Users/admin/Desktop/claude code armen/pure-pet-clone/src/components/HeroSection.tsx:138:1]
+ 138 |       </div>
+ 139 | 
+ 140 |     </section>
+ 141 |     {/* Zigzag divider below hero - sits outside section */}
+     :     ^
+ 142 |     <div
+ 143 |       className="w-full relative z-20"
+ 144 |       style={{
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/HeroSection.tsx
+./src/app/page.tsx @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[ 3130165ms] [ERROR] ./src/components/HeroSection.tsx
+Error: 
+  x Expected ',', got '{'
+     ,-[/Users/admin/Desktop/claude code armen/pure-pet-clone/src/components/HeroSection.tsx:138:1]
+ 138 |       </div>
+ 139 | 
+ 140 |     </section>
+ 141 |     {/* Zigzag divider below hero - sits outside section */}
+     :     ^
+ 142 |     <div
+ 143 |       className="w-full relative z-20"
+ 144 |       style={{
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/HeroSection.tsx
+./src/app/page.tsx @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[ 3130417ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=1p60s:0
+[ 3130440ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=1p60s:0
+[ 3130475ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=1p60s:0
+[ 3130633ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[ 3131703ms] ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error: 
+  x Expected ',', got '{'
+     ,-[/Users/admin/Desktop/claude code armen/pure-pet-clone/src/components/HeroSection.tsx:138:1]
+ 138 |       </div>
+ 139 | 
+ 140 |     </section>
+ 141 |     {/* Zigzag divider below hero - sits outside section */}
+     :     ^
+ 142 |     <div
+ 143 |       className="w-full relative z-20"
+ 144 |       style={{
+     `----
+
+
+Caused by:
+    Syntax Error
+    at processResult (file:///Users/admin/Desktop/claude code armen/pure-pet-clone/node_modules/next/dist/compiled/webpack/bundle5.js:28:400590)
+    at <unknown> (file:///Users/admin/Desktop/claude code armen/pure-pet-clone/node_modules/next/dist/compiled/webpack/bundle5.js:28:402302)
+    at <unknown> (file:///Users/admin/Desktop/claude code armen/pure-pet-clone/node_modules/next/dist/compiled/loader-runner/LoaderRunner.js:1:8645)
+    at <unknown> (file:///Users/admin/Desktop/claude code armen/pure-pet-clone/node_modules/next/dist/compiled/loader-runner/LoaderRunner.js:1:5019)
+    at r.callback (file:///Users/admin/Desktop/claude code armen/pure-pet-clone/node_modules/next/dist/compiled/loader-runner/LoaderRunner.js:1:4039)
+[ 3131748ms] [ERROR] ./src/components/HeroSection.tsx
+Error: 
+  x Expected ',', got '{'
+     ,-[/Users/admin/Desktop/claude code armen/pure-pet-clone/src/components/HeroSection.tsx:138:1]
+ 138 |       </div>
+ 139 | 
+ 140 |     </section>
+ 141 |     {/* Zigzag divider below hero - sits outside section */}
+     :     ^
+ 142 |     <div
+ 143 |       className="w-full relative z-20"
+ 144 |       style={{
+     `----
+
+Caused by:
+    Syntax Error @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[ 3151952ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/webpack/0364f7afd9c79a3d.webpack.hot-update.json:0
+[ 3151952ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:349

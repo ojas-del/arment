@@ -1,0 +1,28 @@
+[    1242ms] [WARNING] Amplitude Logger [Warn]: Plugin with name google-tag-manager already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    1242ms] [WARNING] Amplitude Logger [Warn]: Plugin with name @amplitude/plugin-session-replay-browser already exists, skipping registration @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    1242ms] [WARNING] Amplitude Logger [Warn]: Plugin name is undefined. 
+      Generating a random UUID for plugin name: 2dfe249a-a5a3-48c6-8706-683f166f63dd. 
+      Set a name for the plugin to prevent it from being added multiple times. @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:5
+[    1512ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.purepetfood.com/_next/static/chunks/402-2c287be393511b0b.js:0
+[    1517ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.purepetfood.com/_next/static/chunks/pages/help-43bf8d162c9e241b.js:0
+[    1521ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.purepetfood.com/_next/static/chunks/pages/index-98159f877e0bc84a.js:0
+[    1549ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.purepetfood.com/:0
+[    3444ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js:0
+[    3463ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/webpack-43817b7636b43062.js:0
+[    3465ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/framework-043cd816f72637e7.js:0
+[    3465ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/main-90c943289de07b17.js:0
+[    3466ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/pages/_app-8a4735346d63482b.js:0
+[    3467ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/8907-a23a5766c6c2d2af.js:0
+[    3468ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/2985-bbe7614beeaaf4ff.js:0
+[    3468ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/2086-49ea716788100b43.js:0
+[    3469ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/402-2c287be393511b0b.js:0
+[    3470ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/7902-e07dcc421755cad9.js:0
+[    3471ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/5674-cf5328ce3ed71c8e.js:0
+[    3471ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/2719-7591e9c95fe4452d.js:0
+[    3472ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/986-ad2ee5ae4c2a011d.js:0
+[    3473ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/6604-4876b64cff682975.js:0
+[    3474ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/8675-053c383dbcb7a619.js:0
+[    3474ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/chunks/pages/index-98159f877e0bc84a.js:0
+[    3475ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/oDMTFosZwKu6tH71TDb7I/_buildManifest.js:0
+[    3476ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/_next/static/oDMTFosZwKu6tH71TDb7I/_ssgManifest.js:0
+[    3733ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.purepetfood.com/.netlify/scripts/rum:0

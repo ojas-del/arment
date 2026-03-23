@@ -1,0 +1,248 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - link "Pure Pet Food" [ref=e9] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e10]: Pure Pet Food
+        - generic [ref=e11]:
+          - navigation [ref=e12]:
+            - list [ref=e13]:
+              - listitem [ref=e14]:
+                - button "About" [ref=e15] [cursor=pointer]:
+                  - generic [ref=e16]:
+                    - text: About
+                    - img [ref=e18]
+              - listitem [ref=e20]:
+                - button "Our dog food" [ref=e21] [cursor=pointer]:
+                  - generic [ref=e22]:
+                    - text: Our dog food
+                    - img [ref=e24]
+              - listitem [ref=e26]:
+                - link "Reviews" [ref=e27] [cursor=pointer]:
+                  - /url: /reviews
+                  - generic [ref=e28]: Reviews
+              - listitem [ref=e29]:
+                - button "Health & breeds" [ref=e30] [cursor=pointer]:
+                  - generic [ref=e31]:
+                    - text: Health & breeds
+                    - img [ref=e33]
+          - list [ref=e35]:
+            - listitem [ref=e36]:
+              - link "Help" [ref=e37] [cursor=pointer]:
+                - /url: /help
+                - generic [ref=e38]: Help
+            - listitem [ref=e39]:
+              - link "Login" [ref=e40] [cursor=pointer]:
+                - /url: /login
+                - generic [ref=e41]: Login
+        - link "Create plan" [ref=e43] [cursor=pointer]:
+          - /url: /signup
+          - generic [ref=e44]: Create plan
+    - generic [ref=e46]:
+      - generic [ref=e47]:
+        - img "Benefits of healthy dog food" [ref=e50]
+        - generic [ref=e52]:
+          - heading "What are the benefits to your pet?" [level=1] [ref=e53]:
+            - text: What are the benefits
+            - generic [ref=e54]: to your pet?
+          - paragraph [ref=e55]: Our natural, healthy pet food has led to thousands of success stories from happy owners and healthy dogs.
+          - generic [ref=e56]:
+            - link "Create a tailored plan" [ref=e57] [cursor=pointer]:
+              - /url: /signup
+              - generic [ref=e58]: Create a tailored plan
+            - iframe [ref=e61]:
+              - generic [ref=f95e2]:
+                - link "Trustpilot reviews" [ref=f95e3] [cursor=pointer]:
+                  - /url: https://uk.trustpilot.com/review/purepetfood.com?utm_medium=trustbox&utm_source=MicroTrustScore
+                  - generic [ref=f95e4]: Excellent
+                  - generic [ref=f95e5]: 4.6 out of 5
+                  - img "Trustpilot" [ref=f95e9]
+                - generic [ref=f95e13]: Rated Excellent. 4.6 out of 5 on Trustpilot
+                - generic [ref=f95e14]: Click to view the company's Trustpilot profile
+      - link "25% off your first box + 10% off your next box" [ref=e64] [cursor=pointer]:
+        - /url: /signup
+        - generic [ref=e65]:
+          - text: 25% off your first box
+          - generic [ref=e66]: + 10% off your next box
+      - generic [ref=e68]:
+        - generic [ref=e70]:
+          - img [ref=e71]
+          - img [ref=e72]
+          - img "Delicious dog food" [ref=e73]
+        - generic [ref=e75]:
+          - heading "Pure common sense" [level=2] [ref=e76]
+          - paragraph [ref=e78]: We work on facts and common sense over here in Yorkshire. After all, we all know natural, healthy food is the best way to feed any animal. Our food is made in the UK, is full of the same ingredients you'd find in your own food and doesn't include anything you wouldn't eat yourself.
+      - generic [ref=e80]:
+        - generic [ref=e82]:
+          - img [ref=e83]
+          - img [ref=e84]
+        - generic [ref=e86]:
+          - heading "No hidden nasties" [level=2] [ref=e87]
+          - paragraph [ref=e89]: We preserve our high quality natural ingredients by removing the water, meaning we don’t add any preservatives, while avoiding the high temperature and high pressure extrusion process used to make traditional dry biscuit dog food. Gone are the days of mysterious brown biscuits full of nasties.
+          - link "More about our food" [ref=e91] [cursor=pointer]:
+            - /url: /recipes
+            - generic [ref=e92]: More about our food
+      - generic [ref=e94]:
+        - generic [ref=e96]:
+          - img [ref=e97]
+          - img [ref=e98]
+        - generic [ref=e100]:
+          - heading "Long healthy lives" [level=2] [ref=e101]
+          - paragraph [ref=e103]: Studies have found that puppies fed a processed diet initially appeared to be healthy, but once they reached maturity, they were more likely to rapidly age and develop degenerative disease symptoms. We stand for fresh, healthy food for long, healthy lives.
+      - generic [ref=e105]:
+        - generic [ref=e106]:
+          - generic [ref=e108]:
+            - img [ref=e109]
+            - img [ref=e110]
+          - generic [ref=e111]:
+            - paragraph [ref=e113]: My experience shows that the effects of feeding a highly-processed diet start to show most in later life. Young dogs often have the vitality to cope with poor quality ingredients, just like children do with fast food. It's not until mid to later life that we really start to see the issues that these inflammatory diets are linked with.
+            - paragraph [ref=e114]:
+              - strong [ref=e115]: Dr Lucy Williamson BVM&S
+        - generic [ref=e116]:
+          - generic [ref=e118]:
+            - img [ref=e119]
+            - img [ref=e120]
+          - generic [ref=e121]:
+            - paragraph [ref=e123]: We rescued Lulu, she had a whole host of stomach and digestive issues. They were so bad that euthanasia was discussed twice by our vets. We tried everything. We found Pure after seeing a review online, within just 2 days her issues had eased, and now 3 months on she's a different dog. Thank you so much for saving our dog's life!
+            - paragraph [ref=e124]:
+              - strong [ref=e125]: Lloyd, Peta & Lulu
+      - generic [ref=e127]:
+        - generic [ref=e129]:
+          - img [ref=e130]
+          - img [ref=e131]
+        - generic [ref=e133]:
+          - heading "Better bellies Improved smell" [level=2] [ref=e134]:
+            - text: Better bellies
+            - generic [ref=e135]: Improved smell
+          - paragraph [ref=e137]: Brown biscuits full of artificial ingredients that are scientifically designed in a lab, can often go in one way and come out the other, smelly and unpleasant. Switching to a highly digestible, high quality food will improve smell and stool consistency. A welcome change!
+      - generic [ref=e139]:
+        - generic [ref=e141]:
+          - img [ref=e142]
+          - img [ref=e143]
+        - generic [ref=e145]:
+          - heading "Combat obesity" [level=2] [ref=e146]
+          - generic [ref=e147]:
+            - paragraph [ref=e148]: According to the PFMA, 51% of dogs are overweight or obese. Obesity leads to a whole host of health issues in later life such as arthritis, diabetes and even cancer. Poor quality foods can cause your dog to eat more to feel full.
+            - paragraph [ref=e149]: We know in our diet, if we eat processed food regularly, we can feel sluggish, become overweight and suffer from health issues later in life. Switching to a healthier, natural diet helps maintain a healthy body weight and combat obesity.
+      - generic [ref=e151]:
+        - generic [ref=e153]:
+          - img [ref=e154]
+          - img [ref=e155]
+        - generic [ref=e157]:
+          - heading "Personalise your dog's food" [level=2] [ref=e158]:
+            - text: Personalise your
+            - generic [ref=e159]: dog's food
+          - paragraph [ref=e161]:
+            - text: Proactively invest in your pet's health with a nutritious, vet-approved
+            - link "dog food subscription" [ref=e162] [cursor=pointer]:
+              - /url: https://www.purepetfood.com/dog-food-subscription
+            - text: that's trusted by thousands. Discover your dog's recipe today with free
+            - link "dog food delivery." [ref=e163] [cursor=pointer]:
+              - /url: https://www.purepetfood.com/dog-food-subscription
+          - link "Discover your dog's menu" [ref=e165] [cursor=pointer]:
+            - /url: /signup
+            - generic [ref=e166]: Discover your dog's menu
+    - contentinfo [ref=e167]:
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - generic [ref=e170]:
+            - heading "Join our VIP list" [level=4] [ref=e171]
+            - paragraph [ref=e172]: Be the first to hear about new product launches, exclusive competitions and helpful dog content.
+            - generic [ref=e173]:
+              - generic [ref=e174]:
+                - generic [ref=e175]: Email address
+                - textbox "Email address" [ref=e176]:
+                  - /placeholder: Enter your email address
+              - button "Sign up" [ref=e177] [cursor=pointer]:
+                - generic [ref=e178]: Sign up
+          - generic [ref=e179]:
+            - heading "Follow us on social media" [level=4] [ref=e180]
+            - img "icon" [ref=e182] [cursor=pointer]
+            - img "icon" [ref=e184] [cursor=pointer]
+            - img [ref=e186] [cursor=pointer]
+        - list [ref=e189]:
+          - listitem [ref=e190]:
+            - button "Pure" [ref=e191] [cursor=pointer]:
+              - heading "Pure" [level=4] [ref=e192]
+          - listitem [ref=e193]:
+            - link "Reviews" [ref=e194] [cursor=pointer]:
+              - /url: /reviews
+          - listitem [ref=e195]:
+            - link "Recipes" [ref=e196] [cursor=pointer]:
+              - /url: /recipes
+          - listitem [ref=e197]:
+            - link "Benefits" [ref=e198] [cursor=pointer]:
+              - /url: /benefits
+          - listitem [ref=e199]:
+            - link "Pet panel" [ref=e200] [cursor=pointer]:
+              - /url: /pet-panel
+          - listitem [ref=e201]:
+            - link "Our story" [ref=e202] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e203]:
+            - link "Puppies" [ref=e204] [cursor=pointer]:
+              - /url: /puppies
+          - listitem [ref=e205]:
+            - link "Breeds" [ref=e206] [cursor=pointer]:
+              - /url: /breeds
+          - listitem [ref=e207]:
+            - link "Dog professionals" [ref=e208] [cursor=pointer]:
+              - /url: /brand-ambassador-for-dog-professionals
+          - listitem [ref=e209]:
+            - link "Careers" [ref=e210] [cursor=pointer]:
+              - /url: /careers
+        - list [ref=e212]:
+          - listitem [ref=e213]:
+            - button "Help" [ref=e214] [cursor=pointer]:
+              - heading "Help" [level=4] [ref=e215]
+          - listitem [ref=e216]:
+            - link "Research" [ref=e217] [cursor=pointer]:
+              - /url: /blog/category/research
+          - listitem [ref=e218]:
+            - link "Blog" [ref=e219] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e220]:
+            - link "Breeds" [ref=e221] [cursor=pointer]:
+              - /url: /breeds
+          - listitem [ref=e222]:
+            - link "Get in touch" [ref=e223] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e224]:
+            - link "Help centre" [ref=e225] [cursor=pointer]:
+              - /url: /help
+        - list [ref=e227]:
+          - listitem [ref=e228]:
+            - button "Information" [ref=e229] [cursor=pointer]:
+              - heading "Information" [level=4] [ref=e230]
+          - listitem [ref=e231]:
+            - link "My account" [ref=e232] [cursor=pointer]:
+              - /url: /account/dashboard
+          - listitem [ref=e233]:
+            - link "Delivery information" [ref=e234] [cursor=pointer]:
+              - /url: /help/delivery-information
+          - listitem [ref=e235]:
+            - link "Privacy policy" [ref=e236] [cursor=pointer]:
+              - /url: /help/privacy-and-cookie-policy
+          - listitem [ref=e237]:
+            - link "Terms & conditions" [ref=e238] [cursor=pointer]:
+              - /url: /help/terms-and-conditions
+          - listitem [ref=e239]:
+            - link "Returns" [ref=e240] [cursor=pointer]:
+              - /url: /help/cancellation-returns-refunds
+          - listitem [ref=e241]:
+            - link "Site security" [ref=e242] [cursor=pointer]:
+              - /url: /help/site-security
+          - listitem [ref=e243]:
+            - link "Sitemap" [ref=e244] [cursor=pointer]:
+              - /url: /sitemap
+          - listitem [ref=e245]:
+            - link "Beyond the bowl" [ref=e246] [cursor=pointer]:
+              - /url: /beyondthebowl
+          - listitem [ref=e247]:
+            - link "Pure policies" [ref=e248] [cursor=pointer]:
+              - /url: /purepolicies
+        - generic [ref=e249]:
+          - img "Pure pet food" [ref=e250]
+          - paragraph [ref=e251]: © Pure Pet Food Ltd 2020-2026
+  - alert [ref=e252]

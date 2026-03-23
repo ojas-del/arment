@@ -1,0 +1,4 @@
+[   16627ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dzhtpnskezkrtfinntbi.supabase.co/rest/v1/orders?select=total_amount:0
+[   16700ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dzhtpnskezkrtfinntbi.supabase.co/rest/v1/orders?select=id%2Ccustomer_id%2Cstatus%2Ctotal_amount%2Ccreated_at%2Ccustomers%28first_name%2Clast_name%2Cemail%29&order=created_at.desc&limit=10:0
+[   16826ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dzhtpnskezkrtfinntbi.supabase.co/rest/v1/orders?select=total_amount:0
+[   16900ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dzhtpnskezkrtfinntbi.supabase.co/rest/v1/orders?select=id%2Ccustomer_id%2Cstatus%2Ctotal_amount%2Ccreated_at%2Ccustomers%28first_name%2Clast_name%2Cemail%29&order=created_at.desc&limit=10:0
